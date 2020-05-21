@@ -7,6 +7,7 @@
 
 <script>
 import CharacterCards from './CharacterCards'
+
 export default {
   name: 'HelloWorld',
   components: {
